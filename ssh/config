@@ -1,0 +1,6 @@
+Host gitlab.alibaba-inc.com
+	Port 22
+	IdentityFile ~/.ssh/id_rsa_gitlab
+Host github.com
+	Port 22
+	IdentityFile ~/.ssh/github_rsa
